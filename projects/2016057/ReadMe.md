@@ -12,9 +12,9 @@
 
 ΑΜ: Π2016057
 
-Application: https://stilos25.github.io/corfu-map/
+Application: https://styljo.github.io/corfu-map/
 
-Repository: https://github.com/stilos25/corfu-map
+Repository: https://github.com/styljo/corfu-map
 
 Παραδοτέο 1
 
@@ -38,7 +38,7 @@ Repository: https://github.com/stilos25/corfu-map
 Να αναφέρω επίσης ότι η αξιολόγηση γίνετε με το δεξί κλικ (στο επιλεγμένο μονοπάτι κάθε φορά) κάνοντας κύκλο των χρωμάτων πηγαίνοντας από το κόκκινο στο μπλε
 
 
-![](https://raw.githubusercontent.com/stilos25/cscw/master/projects/2016057/Corfu_map.PNG)
+![](https://raw.githubusercontent.com/styljo/cscw/master/projects/2016057/Corfu_map.PNG)
 
 
 Παραδοτέο 2
